@@ -7,6 +7,7 @@ public class Person implements Serializable {
 	String name;
 	String Mobileno;
 	int age;
+	int gb;
 	
 	
 	public Person() {
